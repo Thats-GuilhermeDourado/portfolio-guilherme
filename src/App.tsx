@@ -20,7 +20,7 @@ const PROJECTS: Project[] = [
     description: 'A reactive carousel component with glassmorphism aesthetics and signal-based state management.',
     tags: ['Angular 20', 'TypeScript', 'Swiper.js', 'SCSS'],
     videoUrl: 'https://cdn.pixabay.com/video/2020/11/04/54434-470656641_large.mp4',
-    posterUrl: '/images/project2.png',
+    posterUrl: '/portfolio-guilherme/images/project2.png',
     caseLink: 'https://github.com/Thats-GuilhermeDourado/Cinematic-UI-Library'
   },
   {
@@ -29,7 +29,7 @@ const PROJECTS: Project[] = [
     description: 'A fully interactive portfolio experience simulating a Windows XP-style operating system, built entirely without frameworks.',
     tags: ['HTML/CSS/JS', 'Web Audio API'],
     videoUrl: 'https://cdn.pixabay.com/video/2022/01/18/104648-666355447_large.mp4',
-    posterUrl: '/images/project3.png',
+    posterUrl: '/portfolio-guilherme/images/project3.png',
     caseLink: 'https://github.com/Thats-GuilhermeDourado/BrandIdentitySystem'
   }
 ];
