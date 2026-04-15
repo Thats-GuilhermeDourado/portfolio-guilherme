@@ -11,7 +11,7 @@ const PROJECTS: Project[] = [
     description: 'Real-time tactical combat with 3D dice, AI-generated NPCs, and live campaign synchronization.',
     tags: ['React', 'Firebase', 'Three.js', 'Gemini AI'],
     videoUrl: 'https://cdn.pixabay.com/video/2021/04/12/70860-536967727_large.mp4',
-    posterUrl: '/images/project1.png',
+    posterUrl: '/portfolio-guilherme/images/project1.png',
     caseLink: 'https://github.com/Thats-GuilhermeDourado/Tactical-Combat-Engine'
   },
   {
